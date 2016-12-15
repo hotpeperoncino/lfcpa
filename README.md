@@ -4,5 +4,6 @@ Interprocedural alias algorithm for LLVM. Compiling creates a file named `lfcpa.
 
 Note: it also currently leaks some memory and some of the code needs refactoring.
 
+After fork:
 
 At bdds branch, modification was applied for 3.9.
