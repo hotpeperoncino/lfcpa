@@ -6,4 +6,4 @@ Note: it also currently leaks some memory and some of the code needs refactoring
 
 After fork:
 
-At bdds branch, modification was applied for 3.9.
+At bdds branch, modification was applied in order to make this available with 3.9.
